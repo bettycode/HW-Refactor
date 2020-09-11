@@ -21,4 +21,4 @@ In this project the changes I have applied are as follows:-
 
    - I commented on the page to make it easy to navigate through.
 
-   - I added border top for the footer and also changed background-color to give it a batter look.
+   - I added border top for the footer and also changed background-color to give it a batter look. 
